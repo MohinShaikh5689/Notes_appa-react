@@ -1,5 +1,5 @@
 import React from "react";
-import { MdDelete } from "react-icons/md";
+import {MdDelete} from "react-icons/md";
 
 function Note(props) {
     function handleClick() {
